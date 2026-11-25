@@ -1,0 +1,11 @@
+{
+  "播放 YouTube Music 的歌曲和歌单": "Écouter des titres et playlists depuis YouTube Music",
+  "YouTube asked to confirm this isn't a bot, so it gave no audio. YouTube often asks this of VPN and proxy addresses: try another network or proxy node.": "YouTube a demandé une vérification anti-bot et n'a pas renvoyé d'audio. Essayez un autre réseau ou nœud proxy.",
+  "YouTube listed no audio for this track": "YouTube n'a fourni aucun flux audio pour ce titre",
+  "YouTube can't play this track": "YouTube ne peut pas lire ce titre",
+  "Or allow YouTube Music to run programs in Settings, to find the audio with yt-dlp.": "Ou autorisez YouTube Music à exécuter des programmes dans les Paramètres pour utiliser yt-dlp.",
+  "Or sign in to YouTube Music in Settings.": "Ou connectez-vous à YouTube Music dans les Paramètres.",
+  "YouTube turned down your session: sign in again": "YouTube a refusé votre session : reconnectez-vous",
+  "YouTube Music didn't take that sign-in: try again": "YouTube Music n'a pas accepté cette connexion : réessayez",
+  "Or install yt-dlp (brew install yt-dlp), to find the audio with it.": "Ou installez yt-dlp (brew install yt-dlp) pour trouver l'audio."
+}

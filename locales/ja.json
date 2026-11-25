@@ -1,0 +1,11 @@
+{
+  "播放 YouTube Music 的歌曲和歌单": "YouTube Music の曲やプレイリストを再生",
+  "YouTube asked to confirm this isn't a bot, so it gave no audio. YouTube often asks this of VPN and proxy addresses: try another network or proxy node.": "YouTube からボット確認を求められたため音声を取得できませんでした。VPN やプロキシ経由でよく発生します。別のネットワークやノードをお試しください。",
+  "YouTube listed no audio for this track": "YouTube からこの曲の音声が見つかりませんでした",
+  "YouTube can't play this track": "YouTube はこの曲を再生できません",
+  "Or allow YouTube Music to run programs in Settings, to find the audio with yt-dlp.": "設定で YouTube Music にプログラム実行を許可し、yt-dlp で音声を取得することもできます。",
+  "Or sign in to YouTube Music in Settings.": "または設定から YouTube Music にログインしてください。",
+  "YouTube turned down your session: sign in again": "YouTube のセッションが無効になりました。再度ログインしてください",
+  "YouTube Music didn't take that sign-in: try again": "YouTube Music へのログインが完了しませんでした。もう一度お試しください",
+  "Or install yt-dlp (brew install yt-dlp), to find the audio with it.": "または yt-dlp（brew install yt-dlp）をインストールして音声を取得してください。"
+}

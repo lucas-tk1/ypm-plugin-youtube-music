@@ -1,0 +1,10 @@
+{
+  "YouTube asked to confirm this isn't a bot, so it gave no audio. YouTube often asks this of VPN and proxy addresses: try another network or proxy node.": "YouTube 要求确认不是机器人，没有给出音频。经过 VPN 或代理时常会这样，可以换一个网络或代理节点再试。",
+  "YouTube listed no audio for this track": "YouTube 没有给出这首歌的音频",
+  "YouTube can't play this track": "YouTube 无法播放这首歌",
+  "Or allow YouTube Music to run programs in Settings, to find the audio with yt-dlp.": "也可以在设置里允许 YouTube Music 运行本机程序，用 yt-dlp 找音频。",
+  "Or sign in to YouTube Music in Settings.": "也可以在设置里登录 YouTube Music。",
+  "YouTube turned down your session: sign in again": "YouTube 不认这次登录了，请重新登录",
+  "YouTube Music didn't take that sign-in: try again": "YouTube Music 没有接受这次登录，请再试一次",
+  "Or install yt-dlp (brew install yt-dlp), to find the audio with it.": "也可以安装 yt-dlp（brew install yt-dlp），用它找音频。"
+}

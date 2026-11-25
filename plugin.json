@@ -1,0 +1,29 @@
+{
+  "id": "lucas-tk1.youtube-music",
+  "name": "YouTube Music",
+  "version": "0.2.0",
+  "author": "lucas-tk1",
+  "description": "播放 YouTube Music 的歌曲和歌单",
+  "minAppVersion": "3.0.0",
+  "repository": "https://github.com/lucas-tk1/ypm-plugin-youtube-music",
+  "main": "index.js",
+  "icon": "icon.png",
+  "playback": "stream",
+  "permissions": {
+    "network": [
+      "music.youtube.com",
+      "*.googlevideo.com"
+    ],
+    "process": [
+      "yt-dlp"
+    ]
+  },
+  "navigation": [
+    {
+      "builtin": "home"
+    },
+    {
+      "builtin": "liked"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "播放 YouTube Music 的歌曲和歌单": "YouTube Music의 노래와 플레이리스트 재생",
+  "YouTube asked to confirm this isn't a bot, so it gave no audio. YouTube often asks this of VPN and proxy addresses: try another network or proxy node.": "YouTube가 봇 확인을 요청하여 오디오를 제공하지 않았습니다. VPN이나 프록시에서 자주 발생하니 다른 네트워크나 노드를 시도해 보세요.",
+  "YouTube listed no audio for this track": "YouTube에서 이 곡의 오디오를 찾을 수 없습니다",
+  "YouTube can't play this track": "YouTube에서 이 곡을 재생할 수 없습니다",
+  "Or allow YouTube Music to run programs in Settings, to find the audio with yt-dlp.": "설정에서 YouTube Music의 프로그램 실행을 허용해 yt-dlp로 오디오를 찾을 수도 있습니다.",
+  "Or sign in to YouTube Music in Settings.": "또는 설정에서 YouTube Music에 로그인하세요.",
+  "YouTube turned down your session: sign in again": "YouTube 세션이 만료되었습니다. 다시 로그인하세요",
+  "YouTube Music didn't take that sign-in: try again": "YouTube Music 로그인이 완료되지 않았습니다. 다시 시도하세요",
+  "Or install yt-dlp (brew install yt-dlp), to find the audio with it.": "또는 yt-dlp(brew install yt-dlp)를 설치해 오디오를 찾을 수 있습니다."
+}

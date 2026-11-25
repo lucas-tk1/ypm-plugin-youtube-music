@@ -1,0 +1,11 @@
+{
+  "播放 YouTube Music 的歌曲和歌单": "播放 YouTube Music 的歌曲和歌單",
+  "YouTube asked to confirm this isn't a bot, so it gave no audio. YouTube often asks this of VPN and proxy addresses: try another network or proxy node.": "YouTube 要求確認不是機器人，沒有給出音訊。經過 VPN 或代理時常會這樣，可以換一個網路或代理節點再試。",
+  "YouTube listed no audio for this track": "YouTube 沒有給出這首歌的音訊",
+  "YouTube can't play this track": "YouTube 無法播放這首歌",
+  "Or allow YouTube Music to run programs in Settings, to find the audio with yt-dlp.": "也可以在設定裡允許 YouTube Music 執行本機程式，用 yt-dlp 找音訊。",
+  "Or sign in to YouTube Music in Settings.": "也可以在設定裡登入 YouTube Music。",
+  "YouTube turned down your session: sign in again": "YouTube 不認這次登入了，請重新登入",
+  "YouTube Music didn't take that sign-in: try again": "YouTube Music 沒有接受這次登入，請再試一次",
+  "Or install yt-dlp (brew install yt-dlp), to find the audio with it.": "也可以安裝 yt-dlp（brew install yt-dlp），用它找音訊。"
+}
